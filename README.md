@@ -22,4 +22,3 @@ Model Evaluation: Evaluation metrics such as accuracy, precision, recall, and F1
 
 Comparative Analysis: Performance of each model is compared to determine the best-performing model for gesture prediction.
 
-Deployment and Testing: The selected model is deployed for real-time gesture prediction and tested on unseen data to ensure its generalization ability.
