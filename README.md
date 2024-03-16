@@ -1,10 +1,10 @@
 # Gesture Recognition with Myo Armband
 
-##Overview
+## Overview
 This repository contains the code and documentation for a gesture recognition system using the Myo armband. The system predicts the gestures performed by users based on sensor data captured by the Myo armband.
 
 ## Dataset Description
-The dataset used for training and evaluation consists of sensor readings recorded while users perform various gestures. Each entry in the dataset includes sensor data along with metadata such as the label indicating the performed gesture, recording time, arm used, battery level, and connection quality.
+The dataset used for training and evaluation consists of sensor readings recorded while users perform three gestures namely rock, paper, scissor. Each entry in the dataset includes sensor data along with metadata such as the label indicating the performed gesture, recording time, arm used, battery level, and connection quality.
 
 ## Methodology
 
